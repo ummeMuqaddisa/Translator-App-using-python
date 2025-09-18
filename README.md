@@ -41,6 +41,6 @@ Make your app public using one of the following methods:
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, contact [muqaddisaumme@example.com] or open an issue in the repository.
+For questions or feedback, contact [muqaddisaumme@gmail.com] or open an issue in the repository.
 
    
